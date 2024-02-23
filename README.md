@@ -23,4 +23,4 @@ Aquí hay una muestra de algunos de los proyectos en los que he trabajado recien
 
 ¡Me encantaría conectarme contigo! Puedes encontrarme en LinkedIn
 
-- **LinkedIn:** David Uguet Muñoz https://www.linkedin.com/in/david-uguet-mu%C3%B1oz/
+- **LinkedIn:** [David Uguet Muñoz] (https://www.linkedin.com/in/david-uguet-mu%C3%B1oz/)
