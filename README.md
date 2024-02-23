@@ -1,4 +1,4 @@
-# Hola, soy [David Uguet]
+# Hola, soy David Uguet
 
 ¡Bienvenido a mi perfil! Soy un desarrollador web fullstack apasionado por crear aplicaciones web increíbles y funcionales. Tengo experiencia tanto en el desarrollo del frontend como en el del backend, lo que me permite crear proyectos completos desde cero y llevarlos a un nivel de calidad excepcional.
 
