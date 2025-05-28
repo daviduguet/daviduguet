@@ -1,6 +1,6 @@
 # Hola, soy David Uguet
 
-¡Bienvenido a mi perfil! Soy un desarrollador web fullstack apasionado por crear aplicaciones web increíbles y funcionales. Tengo experiencia tanto en el desarrollo del frontend como en el del backend, lo que me permite crear proyectos completos desde cero y llevarlos a un nivel de calidad excepcional.
+¡Bienvenido a mi perfil! Soy Project Manager en una empresa de ciberseguridad. Llevo trabajando más de 3 años en el ámbito de la Ciberseguridad y además de la ciber, otra de mis pasiones es la programación.
 
 ## Sobre mí
 
